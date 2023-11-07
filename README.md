@@ -1,2 +1,2 @@
-# ASP-graph-traversal
-C++ Dijkstra algorithm - graph traversal
+# Graph traversal
+C++ Dijkstra algorithm
